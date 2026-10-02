@@ -195,10 +195,3 @@ Este é um estudo acadêmico de classificação dos rótulos presentes no datase
 
 Os resultados dependem da versão do dataset, dos filtros e das versões das bibliotecas, que não estão fixadas no projeto. A exclusão de registros altera a população avaliada. Os coeficientes descrevem associações aprendidas pelo modelo e não demonstram causalidade.
 
-## Possíveis melhorias
-
-- Registrar versões das dependências e a origem exata da versão do dataset utilizada.
-- Avaliar outros classificadores sob o mesmo protocolo de validação.
-- Investigar diferentes limiares de decisão e seus efeitos sobre Precision e Recall.
-- Avaliar calibração das probabilidades e desempenho por subgrupos.
-- Salvar modelos, gráficos e métricas para facilitar a reprodução da análise.
